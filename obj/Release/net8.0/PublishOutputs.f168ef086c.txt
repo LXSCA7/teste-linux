@@ -1,0 +1,11 @@
+D:\marcelo\output\marcelo.exe
+D:\marcelo\output\appsettings.Development.json
+D:\marcelo\output\appsettings.json
+D:\marcelo\output\marcelo.dll
+D:\marcelo\output\marcelo.deps.json
+D:\marcelo\output\marcelo.runtimeconfig.json
+D:\marcelo\output\marcelo.pdb
+D:\marcelo\output\Microsoft.OpenApi.dll
+D:\marcelo\output\Swashbuckle.AspNetCore.Swagger.dll
+D:\marcelo\output\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\marcelo\output\Swashbuckle.AspNetCore.SwaggerUI.dll
